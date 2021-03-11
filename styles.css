@@ -1,0 +1,62 @@
+
+body{
+    margin: 50px;
+    padding: 20px;
+    background-color: peachpuff;
+    color: DarkMagenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.4em;
+    text-align: center;
+}
+P.blocktext { 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 80em
+}
+.border-1{
+    margin-left: 650px;
+    margin-right: 650px;
+    border-style: solid;
+    border-bottom-width: 10px;
+    border-top-width: 10px;
+    border-color: deeppink;    
+}
+.border-2{
+    margin-left: 650px;
+    margin-right: 650px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: goldenrod;
+}
+.border-3{
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: groove;
+    border-width: 12px;
+    border-color:LightSeaGreen
+}
+.border-4{
+    margin-left: 350px;
+    margin-right: 350px;
+    border-style: dotted;
+    border-width: 8px;
+    border-color: darkturquoise
+}
+.border-5{
+    margin: 0 auto;
+    width: 35%;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: Coral
+}
+.footer{
+    margin: 0 auto;
+    width: 45%;
+    border: 1px solid black;
+}
+li {
+    display: inline;
+  }
